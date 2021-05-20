@@ -1,0 +1,53 @@
+#aboutme {
+    padding: 20px;
+    background: linear-gradient(#090979 0%, #679d19 100%);
+}
+
+body {
+    text-align: center;
+}
+
+#myfavouritehobby {
+    padding: 20px;
+    background: linear-gradient(#9d3319 0%, #19199d 100%);
+}
+
+img {
+    height: 300px;
+}
+
+.menu {
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.links {
+    float: left;
+    color: fuchsia;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px
+}
+
+.links:hover {
+    background-color: aqua;
+}
+#myfavouritebook{
+padding: 20px;
+	background: linear-gradient(#a000e9 0%,#00e9db 100%);
+}
+#myinspriation{
+	padding: 20px;
+	background: linear-gradient(#b7d129 0%,#1ded5f 100%);
+}
+#contact{
+		padding: 20px;		
+	background: linear-gradient(#e71ded 0%,#e71ded 100%)
+}
